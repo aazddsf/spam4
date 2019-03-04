@@ -6,10 +6,10 @@ const client = new Discord.Client();
 
 
 client.on('ready', async() => {
-var server = "518026451832799232"; // ايدي السررفر
-var channel = "518026871695212564";//ايدي الروم
+var server = "548901976578981889"; // ايدي السررفر
+var channel = "548901976578981891";//ايدي الروم
     setInterval(()=>{
-    client.guilds.get(server).channels.get(channel).send('Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , ')
+    client.guilds.get(server).channels.get(channel).send('Mirage Spam , Mirage Spam , Mirage Spam , Mirage Spam , Mirage Spam , Mirage Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , Magic Spam , ')
     },305);
 })
 
